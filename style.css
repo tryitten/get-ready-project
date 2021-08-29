@@ -1,5 +1,7 @@
-
-
+body{
+    background-color: aqua;
+    background-size: 100%,100%;
+}
 
 .cambridge{
     color: cadetblue;
@@ -94,15 +96,8 @@
 .bg-light {
     --bs-bg-opacity: 0 !important;
     background-color: none !important;
+
 }
-
-
-
-body {
-    background: linear-gradient(rgb(200, 43, 43),rgb(58, 58, 121));
-    background-repeat: no-repeat;
-}
-
 
 
 
@@ -197,13 +192,21 @@ background-size: 100%,100% ;
 
 }
 
-
+@media screen and  (max-width:800px)  {
+    body{
+        background: rgb(134, 54, 54)!important;
+        background-size: 100%,100%;
+        background-repeat: no-repeat;
+    }
+    
+    
+}
 
 
 
 @media screen and (max-width:700px) {
     body{
-        background:  rgb(139, 233, 227)important;
+        background:  rgb(139, 233, 227)!important;
         background-size: 100%,100%;
         background-repeat: no-repeat;
        

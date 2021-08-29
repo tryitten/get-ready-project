@@ -38,19 +38,6 @@ body {
 }
 
 
-
-
-.about,.home{
-    margin-left: 2150% !important;
-    
-
-}
-
-
-
-
-
-
 .best {
     /* best */
 
@@ -92,31 +79,6 @@ body {
     color: coral;
     font-size: 25px;
 }
-.list1{
-    float: left;
-    color: coral;
-    margin-left: 30%;
-    font-size: 20px;
-    text-decoration: none;
-    text-shadow: 0px 7px 3px rgb(4, 5, 5);
-
-}
-   
-
-
-
-
-
-.list2{
-
-     color: cyan;
-    float: right;
-    margin-right: 30%;
-    margin-top: 0%;
-    font-size: 20px;
-    text-decoration: none;
-    text-shadow: 0px 7px 3px rgb(4, 5, 5);
-}  
 
 
 
@@ -153,31 +115,125 @@ body {
 
 
 
+body {
+    background: linear-gradient(rgb(200, 43, 43),rgb(58, 58, 121));
+    background-repeat: no-repeat;
+}
+
+
+
+
+.home{
+    color: cadetblue;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    margin-bottom: 0.5%;
+    text-shadow: 0px 5px 2px rgb(4, 5, 5);
+}
+
+
+
+
+
+.ch1,.ch2,.ch3,.ch4{
+
+color: blanchedalmond;
+}
+
+
+.Biology,.Chemistry,.Biology,.Footprint,.Firstflight,.History,.Geography,.Economics,.Politicalscience,.Physics {
+    padding-left: 20%;
+    padding-top: 0.5%;
+    margin-top: 0.1%;
+    padding-top: 8%;
+    font-size: 40px;
+    color:rgb(0, 201, 246) ;
+}
+
+
+
+.ch1{
+    font-size: 20px;
+    padding-left: 30%;
+}
+
+
+
+.ch2 {
+    
+    font-size: 20px;
+
+    padding-left: 30%;
+} 
+
+
+
+
+.ch3 {
+    
+    font-size: 20px;
+    padding-left: 30%;   
+}
+
+
+
+.ch4{
+    
+    font-size: 20px;
+    padding-left: 30%;
+}
+
+
+
+.link{
+    color: aquamarine;
+    text-decoration: none;
+
+}
+
+
+.set{
+    padding: 1%;
+    
+}
 @media screen and (max-width:2340px){
 
 body{
 background-image:url(home\ bigger.jfif) !important;
 background-size: 100%,100% ;
+}
+.list1{
+    float: left;
+    color: coral;
+    margin-left: 30%;
+    font-size: 20px;
+    text-decoration: none;
+    text-shadow: 0px 7px 3px rgb(4, 5, 5);
 
 }
 
 }
 
 
-@media screen and (max-width:2030px) {
+
+
+
+@media screen and (max-width:700px) {
     body{
-        background-image:url(Tower1.jpg) !important;
+        background: linear-gradient(red blue)!important;
         background-size: 100%,100%;
+        background-repeat: no-repeat;
        
     }
    
 }
 
 
- @media   screen and (max-width:1278px) {
+ @media   screen and (max-width:400px) {
      body{
-      background-image: url(Tower1.jpg) !important;
+      background:linear-gradient(red, rgb(0, 255, 38))!important;
       background-size: 100%,100%;
+      background-repeat: no-repeat;
      }
  
  }
@@ -186,27 +242,3 @@ background-size: 100%,100% ;
 
 
 
-@media screen and (max-width:900px) {
-
-    body{
-     background-image:url(Tower\ crop1.jpg) !important;
-     background-size:100%,100%;
-       
-    }
-}
-
-   
-
-
-@media screen and (max-width:560px) {
-
-    body{
-    background-image:url(Tower\ multicrop.jpg) !important;
-    margin-left: 45%; 
-    padding-left: 3%;   
-    
-    margin: auto;
-}
-
-
-}

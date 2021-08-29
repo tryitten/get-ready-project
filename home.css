@@ -1,0 +1,212 @@
+
+
+body {
+  background-image: url(home1.jfif);
+    background-size: 100% ,90%;
+    
+}
+
+
+
+.cambridge{
+    color: cadetblue;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    text-shadow: 0px 7px 2px rgb(4, 5, 5);
+
+}
+
+
+
+.home{
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-inline-end: 0%;
+    color: coral;
+    text-shadow: 0px 5px 2px rgb(4, 5, 5);
+
+}
+
+
+
+.about{
+     color: chartreuse;
+     text-shadow: 0px 5px 2px rgb(4, 5, 5);
+    
+
+
+}
+
+
+
+
+.about,.home{
+    margin-left: 2150% !important;
+    
+
+}
+
+
+
+
+
+
+.best {
+    /* best */
+
+    padding-top: 0%;
+    padding-left: 32%;
+    font-size: 30px;
+    color:rgb(208, 236, 130) ;
+    text-shadow: 0px 7px 3px rgb(4, 5, 5);
+
+
+}
+
+
+
+
+
+.practice {
+    /* practice */
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 2%;
+    margin-top: 3%;
+    font-size: 20px;
+    color:rgb(218,147,224);
+
+
+}
+    
+
+.sub {
+    /* subject */
+    color: rgb(80, 232, 255);
+    margin-left: 19%;
+    font-size: 30px;
+    text-shadow: 0px 5px 2px rgb(4, 5, 5);
+ }
+
+.container{
+    color: coral;
+    font-size: 25px;
+}
+.list1{
+    float: left;
+    color: coral;
+    margin-left: 30%;
+    font-size: 20px;
+    text-decoration: none;
+    text-shadow: 0px 7px 3px rgb(4, 5, 5);
+
+}
+   
+
+
+
+
+
+.list2{
+
+     color: cyan;
+    float: right;
+    margin-right: 30%;
+    margin-top: 0%;
+    font-size: 20px;
+    text-decoration: none;
+    text-shadow: 0px 7px 3px rgb(4, 5, 5);
+}  
+
+
+
+
+.list {
+    color: rgb(255, 115, 0);
+    font-size: 25px;
+    padding-left: 40%;
+}
+
+
+
+.bio{
+    
+   color: rgb(255, 232, 255);
+    text-decoration: none;
+    
+
+}
+
+.bip{
+     color: rgb(255,232,255);
+     text-decoration: none;
+
+}
+
+
+
+
+.bg-light {
+    --bs-bg-opacity: 0 !important;
+    background-color: none !important;
+}
+
+
+
+@media screen and (max-width:2340px){
+
+body{
+background-image:url(home\ bigger.jfif) !important;
+background-size: 100%,100% ;
+
+}
+
+}
+
+
+@media screen and (max-width:2030px) {
+    body{
+        background-image:url(Tower1.jpg) !important;
+        background-size: 100%,100%;
+       
+    }
+   
+}
+
+
+ @media   screen and (max-width:1278px) {
+     body{
+      background-image: url(Tower1.jpg) !important;
+      background-size: 100%,100%;
+     }
+ 
+ }
+
+
+
+
+
+@media screen and (max-width:900px) {
+
+    body{
+     background-image:url(Tower\ crop1.jpg) !important;
+     background-size:100%,100%;
+       
+    }
+}
+
+   
+
+
+@media screen and (max-width:560px) {
+
+    body{
+    background-image:url(Tower\ multicrop.jpg) !important;
+    margin-left: 45%; 
+    padding-left: 3%;   
+    
+    margin: auto;
+}
+
+
+}

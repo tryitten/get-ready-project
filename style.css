@@ -168,7 +168,7 @@ color: blanchedalmond;
 
 
 .link{
-    color: aquamarine;
+    color: rgb(221, 182, 216);
     text-decoration: none;
 
 }
@@ -176,6 +176,7 @@ color: blanchedalmond;
 
 .set{
     padding: 1%;
+    font-size: 40px;
     
 }
 @media screen and (max-width:2340px){

@@ -199,7 +199,7 @@ color: blanchedalmond;
 @media screen and (max-width:2340px){
 
 body{
-background-image:url(home\ bigger.jfif) !important;
+background-image:url(image) !important;
 background-size: 100%,100% ;
 }
 .list1{
@@ -220,7 +220,7 @@ background-size: 100%,100% ;
 
 @media screen and (max-width:700px) {
     body{
-        background: linear-gradient(red blue)!important;
+        background:  rgb(139, 233, 227)important;
         background-size: 100%,100%;
         background-repeat: no-repeat;
        
@@ -231,7 +231,7 @@ background-size: 100%,100% ;
 
  @media   screen and (max-width:400px) {
      body{
-      background:linear-gradient(red, rgb(0, 255, 38))!important;
+      background: rgb(139,233,227)!important;
       background-size: 100%,100%;
       background-repeat: no-repeat;
      }

@@ -1,12 +1,5 @@
 
 
-body {
-  background-image: url(home1.jfif);
-    background-size: 100% ,90%;
-    
-}
-
-
 
 .cambridge{
     color: cadetblue;
@@ -95,17 +88,7 @@ body {
     
    color: rgb(255, 232, 255);
     text-decoration: none;
-    
-
 }
-
-.bip{
-     color: rgb(255,232,255);
-     text-decoration: none;
-
-}
-
-
 
 
 .bg-light {

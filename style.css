@@ -78,7 +78,7 @@ p{
 
 .bio{
     
-   color: rgb(174, 165, 174);
+   color: rgb(122, 245, 172);
     text-decoration: none;
     font-size: 30px;
 }
@@ -101,14 +101,6 @@ p{
     text-shadow: 0px 3px 2px  rgb(101, 242, 242);
 }
 
-
-
-.home:hover {
-    opacity: 0.9;
-    color: rgb(230, 156, 156);
-    transform: scale(0.0);
-    transition: transform.0s;
-}
 
 
 

@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-color: rgb(172, 184, 166);
     background-size: 100%,
 }
 
@@ -107,7 +107,7 @@ p{
 
 
 .home{
-    color: cadetblue;
+    color: rgb(169, 212, 27);
     font-family: 'Lobster', cursive;
     font-size: 40px;
     margin-bottom: 0.5%;
@@ -129,7 +129,7 @@ color: blanchedalmond;
     padding-top: 0.5%;
     margin-top: 0.1%;
     padding-top: 8%;
-    font-size: 40px;
+    font-size: 25px;
     color:rgb(0, 201, 246) ;
 }
 
@@ -177,7 +177,7 @@ color: blanchedalmond;
 
 .set{
     padding: 1%;
-    font-size: 40px;
+    font-size: 30px;
     
 }
 @media screen and (max-width:2340px){
@@ -204,7 +204,7 @@ background-size: 100%,100% ;
 
 @media screen and (max-width:700px) {
     body{
-        background:  rgb(139, 233, 227)!important;
+        background:  rgb(106, 148, 144)!important;
         background-size: 100%,100%;
         background-repeat: no-repeat;
        
@@ -215,7 +215,7 @@ background-size: 100%,100% ;
 
  @media   screen and (max-width:400px) {
      body{
-      background: rgb(139,233,227)!important;
+      background: rgb(106,148,144)!important;
       background-size: 100%,100%;
       background-repeat: no-repeat;
      }

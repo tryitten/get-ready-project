@@ -237,7 +237,7 @@ background-size: 100%,100% ;
 
  @media   screen and (max-width:400px) {
      body{
-      background: rgb(106,148,144)!important;
+      background: rgb(12, 14, 14)!important;
       background-size: 100%,100%;
       background-repeat: no-repeat;
      }

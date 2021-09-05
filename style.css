@@ -130,36 +130,13 @@ color: blanchedalmond;
 
 
 
-.ch1{
+.ch1 ,.ch2 ,.ch3, .ch4{
     font-size: 0%;
     padding-left: 10%;
 }
 
 
 
-.ch2 {
-    
-    font-size: 0%;
-
-    padding-left: 10%;
-} 
-
-
-
-
-.ch3 {
-    
-    font-size: 0%;
-    padding-left: 10% ;
-}
-
-
-
-.ch4{
-    
-    font-size:0%px;
-    padding-left: 10%;
-}
 
 
 

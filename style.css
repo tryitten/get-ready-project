@@ -63,7 +63,7 @@ p{
     color: rgb(80, 232, 255);
     margin-left: 19%;
     font-size: 30px;
-    text-shadow: 0px 5px 2px rgb(4, 5, 5);
+    text-shadow: 0px 5px 2px rgb(35, 36, 36);
  }
 
 
@@ -78,7 +78,7 @@ p{
 
 .bio{
     
-   color: rgb(182, 242, 206);
+   color: rgb(103, 251, 77);
     text-decoration: none;
     font-size: 30px;
 }
@@ -155,7 +155,7 @@ color: blanchedalmond;
 @media screen and (max-width:2340px){
 
 body{
-background:rgb(12, 14, 14) !important;
+background:rgb(193, 255, 178) !important;
 background-size: 100%,100% ;
 }
 .list1{
@@ -164,7 +164,7 @@ background-size: 100%,100% ;
     margin-left: 30%;
     font-size: 20px;
     text-decoration: none;
-    text-shadow: 0px 7px 3px rgb(4, 5, 5);
+    text-shadow: 0px 4px 3px rgb(25, 26, 26);
 
 }
 
@@ -173,7 +173,7 @@ background-size: 100%,100% ;
 
 @media screen and (max-width:700px) {
     body{
-        background:  rgb(12, 14, 14)!important;
+        background:  rgb(170, 181, 53)!important;
         background-size: 100%,100%;
         background-repeat: no-repeat;
        
@@ -184,7 +184,7 @@ background-size: 100%,100% ;
 
  @media   screen and (max-width:400px) {
      body{
-      background: rgb(12, 14, 14)!important;
+      background: rgb(230, 127, 96)!important;
       background-size: 100%,100%;
       background-repeat: no-repeat;
      }

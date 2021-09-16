@@ -1,4 +1,4 @@
-body{
+.body{
     background-color: rgb(12, 14, 14);
     background-size: 100%;
 
@@ -21,13 +21,6 @@ p{
 
 
 
-.about{
-     color: chartreuse;
-     text-shadow: 0px 5px 2px rgb(4, 5, 5);
-    
-
-
-}
 
 
 .best {
@@ -84,9 +77,14 @@ p{
     font-size: 30px;
 }
 
-.subject.hover{
-    color:rgb(221, 254, 9);
+.subject:hover{
+    font-family: 'Lobster', cursive;
+    opacity: 7.9;
+    color: rgb(225, 202, 232);
+    transform: scale(5.3);
+    transition: transform.2s;
 }
+
 
 
 .bg-light {
@@ -192,7 +190,7 @@ background-size: 100%,100% ;
 
 @media screen and (max-width:700px) {
     body{
-        background:  rgb(90, 206, 167)!important;
+        background:  rgb(224, 233, 230)!important;
         background-size: 100%,100%;
         background-repeat: no-repeat;
          

@@ -101,7 +101,7 @@ p{
     font-size: 40px;
     margin-bottom: 0.5%;
     margin-left: 5%;
-    text-shadow: 0px 3px 2px  rgb(101, 242, 242);
+    text-shadow: 0px 6px 6px  rgb(19, 91, 198);
 }
 
 
@@ -141,10 +141,10 @@ color: rgb(191, 13, 149);
 
 P{
 
-    color: rgb(237, 173, 190);
+    color: rgb(235, 234, 177);
     font-family: 'Lobster', cursive;
     font-size: 40px;
-    text-shadow: 0px 3px 2px  rgb(214, 53, 53);
+    text-shadow: 0px 3px 5px  rgb(0, 186, 211);
 }
 
 
@@ -165,7 +165,7 @@ P{
 @media screen and (max-width:2340px){
 
 body{
-background:rgb(61, 58, 58) !important;
+background:rgb(211, 238, 217) !important;
 background-size: 100%,100% ;
 }
 .list1{
@@ -190,7 +190,7 @@ background-size: 100%,100% ;
 
 @media screen and (max-width:700px) {
     body{
-        background: rgb((61, 58, 58)!important;
+        background: rgb(211, 238, 237)!important;
         background-size: 100%,100%;
         background-repeat: no-repeat;
          

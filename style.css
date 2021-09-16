@@ -202,7 +202,9 @@ background-size: 100%,100% ;
      text-decoration: none;
      font-size: 30px;
     }
-   
+    .best{
+        padding-left: 9%;
+    }
 
     .subject{
     

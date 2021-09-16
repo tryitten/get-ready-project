@@ -165,7 +165,7 @@ P{
 @media screen and (max-width:2340px){
 
 body{
-background:rgb(26, 224, 181) !important;
+background:rgb(195, 240, 230) !important;
 background-size: 100%,100% ;
 }
 .list1{
@@ -216,7 +216,7 @@ background-size: 100%,100% ;
 
  @media   screen and (max-width:400px) {
      body{
-      background: rgb(123, 209, 224)!important;
+      background: rgb(224, 233, 230)!important;
       background-size: 100%,100%;
       background-repeat: no-repeat;
      }
